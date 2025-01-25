@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [FOOD MATE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Syntax]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aleema E A] - [Holy Grace Academy Of Engineering]
+- Member 2: [Devinanda K J] - [Holy Grace Academy Of Engineering]
+- Member 3: [Abhishetha K B] - [Holy Grace Academy Of Engineering]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
